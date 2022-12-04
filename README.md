@@ -1,3 +1,3 @@
 # bmi_calculator
 
-Use your weight to calculate your Body Mass Index (BMI).
+Use your weight and height to calculate your Body Mass Index (BMI).
